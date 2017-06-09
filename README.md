@@ -9,4 +9,4 @@ To create a PS file, you need to write your PS code in a ASCII text editor, and 
 * [Ghostscript](https://www.ghostscript.com/download/) - PostScript Interpreter.
 * [GSview](http://pages.cs.wisc.edu/~ghost/gsview/index.htm) - Graphical interface for Ghostscript.
 
-![alt text](https://pt.wikipedia.org/wiki/Ghostscript#/media/File:Ghostscript.svg)
+![alt text](PostScript_Graphics/GSview_icon.png)
