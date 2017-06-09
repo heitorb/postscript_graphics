@@ -1,2 +1,4 @@
-# postscript_graphics
-Some random PostScripts codes
+# PostScript
+
+ascii text editor
+Ghostscript, an interpreter for the PostScript language
