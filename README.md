@@ -1,6 +1,6 @@
 # PostScript
 
-To create a PS file, you need to write your PS code in a ASCII text editor, and save it as (.ps). To interpreter and visualize your .ps file, you will need to install the Ghostscript, an interpreter for the PostScript language, and the software GSview, to visualize it.
+To create a PS file, you need to write your PS code in a ASCII text editor, and save it as (.ps). To interpret and visualize your .ps file, you will need to install the Ghostscript, an interpreter for the PostScript language, and the software GSview, to visualize it.
 
 
 ## Downloads
